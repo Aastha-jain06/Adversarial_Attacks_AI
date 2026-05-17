@@ -1,0 +1,46 @@
+[
+  {
+    "epsilon": 0.0,
+    "total": 10000,
+    "clean_acc": 0.8941,
+    "adv_acc": 0.8938,
+    "attack_success_rate": 0.0011184431271669835,
+    "mean_lpips": 5.9516091646502735e-05,
+    "correct_before": 8941,
+    "successful_attacks": 10,
+    "examples_saved": 20
+  },
+  {
+    "epsilon": 0.01,
+    "total": 10000,
+    "clean_acc": 0.8941,
+    "adv_acc": 0.7157,
+    "attack_success_rate": 0.19953025388658988,
+    "mean_lpips": 7.566027898500791e-05,
+    "correct_before": 8941,
+    "successful_attacks": 1784,
+    "examples_saved": 20
+  },
+  {
+    "epsilon": 0.03,
+    "total": 10000,
+    "clean_acc": 0.8941,
+    "adv_acc": 0.4405,
+    "attack_success_rate": 0.5073258024829438,
+    "mean_lpips": 0.00020652484355536036,
+    "correct_before": 8941,
+    "successful_attacks": 4536,
+    "examples_saved": 20
+  },
+  {
+    "epsilon": 0.06,
+    "total": 10000,
+    "clean_acc": 0.8941,
+    "adv_acc": 0.2734,
+    "attack_success_rate": 0.6942176490325467,
+    "mean_lpips": 0.0006829368628594227,
+    "correct_before": 8941,
+    "successful_attacks": 6207,
+    "examples_saved": 20
+  }
+]
